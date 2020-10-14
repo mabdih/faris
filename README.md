@@ -20,4 +20,4 @@ You can read the vignette introduction, see the folders for more information.
 
 ### Travis Badge
 
-[![Travis build status](https://travis-ci.org/mabdih/faris.svg?branch=main)
+![Travis build status](https://travis-ci.org/mabdih/faris.svg?branch=main)

@@ -1,0 +1,21 @@
+Package: faris
+Type: Package
+Date: 2018-03-19
+Depends: R (>= 3.0.0)
+Imports: readr, dplyr, magrittr, tidyr, maps, graphics
+Title: Build R Package final test from Coursera
+Version: 0.1.0
+Author: Mohamed Hussein <mabdih@yahoo.com>
+Maintainer: Mohamed Hussein <mabdih@yahoo.com>
+Description: This package read and summarize FARS data and summarize them
+    FARS is US National Highway Traffic Safety Administration's Fatality Analysis Reporting System
+    Summary reports are by year(s) and incident plots by state and year.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/mabdih/faris
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 7.1.1
